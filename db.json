@@ -1,4 +1,5 @@
 {
+  "segnalazioni": {
     "status": true,
     "customCode": "2000",
     "message": "Success",
@@ -52,4 +53,5 @@
             "ubicazione": "Casalotti"
         }
    ]
+}
 }
